@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+/* element selector */
+body {
+  background-color: #0c2d57;
+  font-family: calibri;
+  color: white;
+}
+
+/* class selector */
+.text-primary {
+  color: #ffd0ec;
+}
+
+.col {
+  width: 25%;
+  float: left;
+}
+
+.img-responsive {
+  width: 100%;
+  max-height: 500px;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.rounded {
+  border-radius: 20px;
+}
+
+.p-1 {
+  padding: 10px;
+}
